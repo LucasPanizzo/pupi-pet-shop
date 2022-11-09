@@ -1,0 +1,191 @@
+[
+    {
+        "Id":101,
+        "categoria":1,
+        "nombre":"Juguete Para Perro Kong Extreme -Caucho Natural-",
+        "precio":6000,
+        "img":"products/toys/dogs/dog-kong-extreme.jpg"
+    },
+    {
+        "Id":102,
+        "categoria":1,
+        "nombre":"Juguete Perro Dmx12 - Kong Duramax Puck",
+        "precio":6500,
+        "img":"products/toys/dogs/dog-kong-duramax.jpg"
+    },
+    {
+        "Id":103,
+        "categoria":1,
+        "nombre":"Juguete Para Perro Kong Extreme Goodie Bone",
+        "precio":6200,
+        "img":"products/toys/dogs/dog-kong-extreme-goodie-bone.jpg"
+    },
+    {
+        "Id":104,
+        "categoria":1,
+        "nombre":"Juguete Lanzador Mediano Perro Chuckit Pro",
+        "precio":8000,
+        "img":"products/toys/dogs/dog-chuckit-pro.jpg"
+    },
+    {
+        "Id":105,
+        "categoria":1,
+        "nombre":"Juego Interactivo Gambling Tower",
+        "precio":9000,
+        "img":"products/toys/dogs/dog-gambling-tower.jpg"
+    },
+    {
+        "Id":106,
+        "categoria":1,
+        "nombre":"Juguete Perro Kong Dotz Circle",
+        "precio":700,
+        "img":"products/toys/dogs/dog-kong-dotz-circle.jpg"
+    },
+    {
+        "Id":107,
+        "categoria":"juguetes-perro",
+        "nombre":"Juguete Para Perro Soga Con Pelota Tennis",
+        "precio":2000,
+        "img":"products/toys/dogs/dog-soga-con-pelota.jpg"
+    },
+    {
+        "Id":108,
+        "categoria":1,
+        "nombre":"Juguete Para Perros Vinilio",
+        "precio":1000,
+        "img":"products/toys/dogs/dog-vinilo.jpg"
+    },
+    {
+        "Id":109,
+        "categoria":1,
+        "nombre":"Frisbee Plastico",
+        "precio":500,
+        "img":"products/toys/dogs/dog-frisbee.jpg"
+    },
+    {
+        "Id":201,
+        "categoria":2,
+        "nombre":"Tunel Para Gato Catit Vesper",
+        "precio":8000,
+        "img":"products/toys/cats/cat-tunel-catit-vesper.jpg"
+    },
+    {
+        "Id":202,
+        "categoria":2,
+        "nombre":"Juguete Para Gato Gigwi Tube Melody Chaser C/Chip de sonido",
+        "precio":5000,
+        "img":"products/toys/cats/cat-gigwi-tube-melody.jpg"
+    },
+    {
+        "Id":203,
+        "categoria":2,
+        "nombre":"Juguete Para Gatos Gigwi Feather Teaser",
+        "precio":8000,
+        "img":"products/toys/cats/cat-gigwi-feather-teaser.jpg"
+    },
+    {
+        "Id":204,
+        "categoria":2,
+        "nombre":"Juguete Para Gato Trea Ferplast",
+        "precio":9000,
+        "img":"products/toys/cats/cat-trea-ferplast.jpg"
+    },
+    {
+        "Id":205,
+        "categoria":2,
+        "nombre":"Juguete Para Gato Monstruos Peluche",
+        "precio":4500,
+        "img":"products/toys/cats/cat-monstruos-peluche.jpg"
+    },
+    {
+        "Id":301,
+        "categoria":3,
+        "nombre":"Cuna Ventana Para Gato (Caja Con 1 Cuna)",
+        "precio":10700,
+        "img":"products/beds/cuna-ventana-gato.jpg"
+    },
+    {
+        "Id":302,
+        "categoria":3,
+        "nombre":"Casita Para Perro/Gato Nº2",
+        "precio":6700,
+        "img":"products/beds/casita-perro-gato.jpg"
+    },
+    {
+        "Id":303,
+        "categoria":3,
+        "nombre":"Cama Dogit Rectangular Con Corderito",
+        "precio":10000,
+        "img":"products/beds/cama-dogit-rectangular.jpg"
+    },
+    {
+        "Id":304,
+        "categoria":3,
+        "nombre":"Colchoneta Perro Antidesgarro Copos 50X70 -Cuzquitos-",
+        "precio":8000,
+        "img":"products/beds/colchoneta-perro-antidesgarro.jpg"
+    },
+    {
+        "Id":305,
+        "categoria":3,
+        "nombre":"Cama Basquet Reversible",
+        "precio":11000,
+        "img":"products/beds/cama-basquet-reversible.jpg"
+    },
+    {
+        "Id":401,
+        "categoria":4,
+        "nombre":"Hueso Porta Bolsas Para Paseo",
+        "precio":1000,
+        "img":"products/others/hueso-porta-bolsa.jpg"
+    },
+    {
+        "Id":402,
+        "categoria":4,
+        "nombre":"Set Bozal Canasta X 5 Unid",
+        "precio":8500,
+        "img":"products/others/bosal-canasta.jpg"
+    },
+    {
+        "Id":403,
+        "categoria":4,
+        "nombre":"Arnes Star Wars Darth Vader Perro ",
+        "precio":3700,
+        "img":"products/others/arnes-star-wars.jpg"
+    },
+    {
+        "Id":404,
+        "categoria":4,
+        "nombre":"Arnes Chewbacca Perro",
+        "precio":5100,
+        "img":"products/others/arnes-chewbaca.jpg"
+    },
+    {
+        "Id":405,
+        "categoria":4,
+        "nombre":"Arnes Marvel Perro",
+        "precio":5100,
+        "img":"products/others/arnes-marvel.jpg"
+    },
+    {
+        "Id":406,
+        "categoria":4,
+        "nombre":"Arnés-Bozal Entrenamiento Top Trainer",
+        "precio":11000,
+        "img":"products/others/arnes-bozal-entrenamiento.jpg"
+    },
+    {
+        "Id":407,
+        "categoria":4,
+        "nombre":"Rascador Para Gato Poste",
+        "precio":5300,
+        "img":"products/others/rascador-gatos-poste.jpg"
+    },
+    {
+        "Id":408,
+        "categoria":4,
+        "nombre":"Rascador Para Gatos C/Poste Sisal",
+        "precio":17000,
+        "img":"products/others/rascador-gatos-poste-sisal.jpg"
+    }
+]

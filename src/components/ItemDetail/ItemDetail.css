@@ -1,0 +1,67 @@
+.detalleProducto{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: white;
+    width: 80vw;
+    border-radius: .5rem;
+    border: 1px solid #001858;
+    color: #001858;
+}
+.detalleProducto img{
+    padding: 10px;
+}
+.detalleProducto-body{
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+}
+.detalleProductoRef{
+    font-size: .9rem;
+    margin-top: 5px;
+}
+.body-title{
+    font-size: 1.7rem;
+    margin-right: 5px;
+}
+.body-text{
+    font-size: 1.5rem;
+    color: #f582ae;
+}
+.detalleProducto-body-agregar{
+    font-size: 1.2rem;
+    display: flex;
+}
+.quantityButton{
+    display: flex;
+    width: fit-content;
+    border:2px solid #f582ae;
+    border-radius: .7rem;
+    margin-bottom: 5px;
+    background-color: rgba(228, 228, 228, 0.692);
+}
+.quantityButton p{
+    margin: 0px 5px 0px 5px;
+}
+.quantityButton button{
+    border: none;
+    background-color: #f582ae;
+    height: fit-content;
+    padding: 0px 5px 0px 5px;
+    border: 1.5px solid #f582ae;
+    width: 25px;
+    border-radius: .5rem ;
+}
+.agregar-butt{
+    height: fit-content;
+    align-self: flex-end;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    background-color: #f582ae;
+    border: 1.5px solid #f582ae;
+    border-radius: .5rem ;
+    padding: 3px;
+    transition: all 0.2s linear;
+}
+.agregar-butt:hover{
+    transform: scale(1.05);
+}

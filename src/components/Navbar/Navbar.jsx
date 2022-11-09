@@ -1,11 +1,11 @@
 import './Navbar.css';
 import Sections from'./Sections';
 import Brand from './brand';
-import CartWidget from './CartWidget';
+import CartWidget from '../CartWidget/CartWidget';
 
 const Navbar = () =>{
     return (
-        <nav className="navbar navbar-expand-sm">
+        <nav className="navbar navbar-expand-sm container-fluid">
             <div className="container-fluid">
                 <Brand/>
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
