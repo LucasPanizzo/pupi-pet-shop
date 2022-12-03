@@ -1,9 +1,9 @@
 
 import {useState, useEffect} from 'react';
-import {cargarProd} from '../../assets/funcionproductos'
+import { getProducts } from '../../assets/firebase';
 import { useParams } from 'react-router-dom';
 import ItemList from '../ItemList/ItemList';
-const Home = () => {
+const ItemListContainer = () => {
    
 
     const [productos, setProductos] = useState([]);
@@ -11,13 +11,13 @@ const Home = () => {
 
     useEffect(() => {
         if(category){
-            cargarProd("../json/products.json").then(products =>{
+            getProducts().then(products =>{
                 const productsList= products.filter(prod =>prod.categoria === parseInt(category))
                 const cardProductos = ItemList({productsList})
                 setProductos(cardProductos)
             })
         } else{
-            cargarProd('./json/products.json').then(productsList => {
+            getProducts().then(productsList => {
                 const cardProductos = ItemList({productsList})
                 setProductos(cardProductos)
             })
@@ -33,4 +33,4 @@ const Home = () => {
     );
 }
 
-export default Home;
+export default ItemListContainer;

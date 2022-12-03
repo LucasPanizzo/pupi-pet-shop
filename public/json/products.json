@@ -1,191 +1,218 @@
 [
     {
-        "Id":101,
+        "id":101,
         "categoria":1,
         "nombre":"Juguete Para Perro Kong Extreme -Caucho Natural-",
         "precio":6000,
-        "img":"products/toys/dogs/dog-kong-extreme.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/pupi---pet-store.appspot.com/o/products%2Ftoys%2Fdogs%2Fdog-kong-extreme.jpg?alt=media&token=49dd5698-1c29-48fe-8ad3-322b871725ba",
+        "stock":3
     },
     {
-        "Id":102,
+        "id":102,
         "categoria":1,
         "nombre":"Juguete Perro Dmx12 - Kong Duramax Puck",
         "precio":6500,
-        "img":"products/toys/dogs/dog-kong-duramax.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/pupi---pet-store.appspot.com/o/products%2Ftoys%2Fdogs%2Fdog-kong-duramax.jpg?alt=media&token=f52ab5be-e1ef-4f53-8031-75371aff753b",
+        "stock":12
     },
     {
-        "Id":103,
+        "id":103,
         "categoria":1,
         "nombre":"Juguete Para Perro Kong Extreme Goodie Bone",
         "precio":6200,
-        "img":"products/toys/dogs/dog-kong-extreme-goodie-bone.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/pupi---pet-store.appspot.com/o/products%2Ftoys%2Fdogs%2Fdog-kong-extreme-goodie-bone.jpg?alt=media&token=ee25288c-a02d-4652-8b50-53c0446eecc3",
+        "stock":10
     },
     {
-        "Id":104,
+        "id":104,
         "categoria":1,
         "nombre":"Juguete Lanzador Mediano Perro Chuckit Pro",
         "precio":8000,
-        "img":"products/toys/dogs/dog-chuckit-pro.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/pupi---pet-store.appspot.com/o/products%2Ftoys%2Fdogs%2Fdog-chuckit-pro.jpg?alt=media&token=1696bc2f-347a-410e-8162-f96affbb135f",
+        "stock":10
     },
     {
-        "Id":105,
+        "id":105,
         "categoria":1,
         "nombre":"Juego Interactivo Gambling Tower",
         "precio":9000,
-        "img":"products/toys/dogs/dog-gambling-tower.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/pupi---pet-store.appspot.com/o/products%2Ftoys%2Fdogs%2Fdog-gambling-tower.jpg?alt=media&token=2a8d7f0b-828c-43bb-a803-d73bba9c6321",
+        "stock":25
     },
     {
-        "Id":106,
+        "id":106,
         "categoria":1,
         "nombre":"Juguete Perro Kong Dotz Circle",
         "precio":700,
-        "img":"products/toys/dogs/dog-kong-dotz-circle.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/pupi---pet-store.appspot.com/o/products%2Ftoys%2Fdogs%2Fdog-kong-dotz-circle.jpg?alt=media&token=b9ab7641-4236-4747-9563-5175dbee0fb7",
+        "stock":100
     },
     {
-        "Id":107,
-        "categoria":"juguetes-perro",
+        "id":107,
+        "categoria":1,
         "nombre":"Juguete Para Perro Soga Con Pelota Tennis",
         "precio":2000,
-        "img":"products/toys/dogs/dog-soga-con-pelota.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/pupi---pet-store.appspot.com/o/products%2Ftoys%2Fdogs%2Fdog-soga-con-pelota.jpg?alt=media&token=7ec2efb2-e23b-40d1-b2ca-849745ee704b",
+        "stock":1
     },
     {
-        "Id":108,
+        "id":108,
         "categoria":1,
         "nombre":"Juguete Para Perros Vinilio",
         "precio":1000,
-        "img":"products/toys/dogs/dog-vinilo.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/pupi---pet-store.appspot.com/o/products%2Ftoys%2Fdogs%2Fdog-vinilo.jpg?alt=media&token=4867e58e-0f9d-436c-a78b-c23baef1fed4",
+        "stock":13
     },
     {
-        "Id":109,
+        "id":109,
         "categoria":1,
         "nombre":"Frisbee Plastico",
         "precio":500,
-        "img":"products/toys/dogs/dog-frisbee.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/pupi---pet-store.appspot.com/o/products%2Ftoys%2Fdogs%2Fdog-frisbee.jpg?alt=media&token=194ba96d-0341-4970-ad63-41a279bb56ce",
+        "stock":125
     },
     {
-        "Id":201,
+        "id":201,
         "categoria":2,
         "nombre":"Tunel Para Gato Catit Vesper",
         "precio":8000,
-        "img":"products/toys/cats/cat-tunel-catit-vesper.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/pupi---pet-store.appspot.com/o/products%2Ftoys%2Fcats%2Fcat-tunel-catit-vesper.jpg?alt=media&token=369c7422-64d9-4561-a313-874c4bdf97b8",
+        "stock":2
     },
     {
-        "Id":202,
+        "id":202,
         "categoria":2,
         "nombre":"Juguete Para Gato Gigwi Tube Melody Chaser C/Chip de sonido",
         "precio":5000,
-        "img":"products/toys/cats/cat-gigwi-tube-melody.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/pupi---pet-store.appspot.com/o/products%2Ftoys%2Fcats%2Fcat-gigwi-tube-melody.jpg?alt=media&token=e626256d-8f2b-4a52-b178-50c532d4ae70",
+        "stock":6
     },
     {
-        "Id":203,
+        "id":203,
         "categoria":2,
         "nombre":"Juguete Para Gatos Gigwi Feather Teaser",
         "precio":8000,
-        "img":"products/toys/cats/cat-gigwi-feather-teaser.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/pupi---pet-store.appspot.com/o/products%2Ftoys%2Fcats%2Fcat-gigwi-feather-teaser.jpg?alt=media&token=1615a6a0-ecdd-4d45-b1d7-f3798138938c",
+        "stock":19
     },
     {
-        "Id":204,
+        "id":204,
         "categoria":2,
         "nombre":"Juguete Para Gato Trea Ferplast",
         "precio":9000,
-        "img":"products/toys/cats/cat-trea-ferplast.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/pupi---pet-store.appspot.com/o/products%2Ftoys%2Fcats%2Fcat-trea-ferplast.jpg?alt=media&token=b68a4969-1b89-4eba-baf8-c900d74a51d1",
+        "stock":21
     },
     {
-        "Id":205,
+        "id":205,
         "categoria":2,
         "nombre":"Juguete Para Gato Monstruos Peluche",
         "precio":4500,
-        "img":"products/toys/cats/cat-monstruos-peluche.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/pupi---pet-store.appspot.com/o/products%2Ftoys%2Fcats%2Fcat-monstruos-peluche.jpg?alt=media&token=27494033-3154-4325-bfc9-961d73607754",
+        "stock":46
     },
     {
-        "Id":301,
+        "id":301,
         "categoria":3,
         "nombre":"Cuna Ventana Para Gato (Caja Con 1 Cuna)",
         "precio":10700,
-        "img":"products/beds/cuna-ventana-gato.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/pupi---pet-store.appspot.com/o/products%2Fbeds%2Fcuna-ventana-gato.jpg?alt=media&token=ded846e6-7370-47b3-9f35-94c225c9cc67",
+        "stock":66
     },
     {
-        "Id":302,
+        "id":302,
         "categoria":3,
         "nombre":"Casita Para Perro/Gato Nº2",
         "precio":6700,
-        "img":"products/beds/casita-perro-gato.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/pupi---pet-store.appspot.com/o/products%2Fbeds%2Fcasita-perro-gato.jpg?alt=media&token=c5ca0807-fdea-40f0-aac6-62d7b31ded66",
+        "stock":10
     },
     {
-        "Id":303,
+        "id":303,
         "categoria":3,
         "nombre":"Cama Dogit Rectangular Con Corderito",
         "precio":10000,
-        "img":"products/beds/cama-dogit-rectangular.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/pupi---pet-store.appspot.com/o/products%2Fbeds%2Fcama-dogit-rectangular.jpg?alt=media&token=c0f4d479-88ae-43e1-a4c2-73b68cbbc0b6",
+        "stock":54
     },
     {
-        "Id":304,
+        "id":304,
         "categoria":3,
         "nombre":"Colchoneta Perro Antidesgarro Copos 50X70 -Cuzquitos-",
         "precio":8000,
-        "img":"products/beds/colchoneta-perro-antidesgarro.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/pupi---pet-store.appspot.com/o/products%2Fbeds%2Fcolchoneta-perro-antidesgarro.jpg?alt=media&token=7969310d-0be2-4d09-a85f-e3dda92eb018",
+        "stock":3
     },
     {
-        "Id":305,
+        "id":305,
         "categoria":3,
         "nombre":"Cama Basquet Reversible",
         "precio":11000,
-        "img":"products/beds/cama-basquet-reversible.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/pupi---pet-store.appspot.com/o/products%2Fbeds%2Fcama-basquet-reversible.jpg?alt=media&token=d53d950d-0252-4b52-ae8c-721d55b1649b",
+        "stock":1
     },
     {
-        "Id":401,
+        "id":401,
         "categoria":4,
         "nombre":"Hueso Porta Bolsas Para Paseo",
         "precio":1000,
-        "img":"products/others/hueso-porta-bolsa.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/pupi---pet-store.appspot.com/o/products%2Fothers%2Fhueso-porta-bolsa.jpg?alt=media&token=e2f7e2f2-759d-4744-8a88-85104a54131d",
+        "stock":32
     },
     {
-        "Id":402,
+        "id":402,
         "categoria":4,
         "nombre":"Set Bozal Canasta X 5 Unid",
         "precio":8500,
-        "img":"products/others/bosal-canasta.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/pupi---pet-store.appspot.com/o/products%2Fothers%2Fbosal-canasta.jpg?alt=media&token=49b142e5-9415-44f6-b562-63be700c6f40",
+        "stock":10
     },
     {
-        "Id":403,
+        "id":403,
         "categoria":4,
         "nombre":"Arnes Star Wars Darth Vader Perro ",
         "precio":3700,
-        "img":"products/others/arnes-star-wars.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/pupi---pet-store.appspot.com/o/products%2Fothers%2Farnes-star-wars.jpg?alt=media&token=5849a825-3e64-43b5-9865-d685ec7a0207",
+        "stock":10
     },
     {
-        "Id":404,
+        "id":404,
         "categoria":4,
         "nombre":"Arnes Chewbacca Perro",
         "precio":5100,
-        "img":"products/others/arnes-chewbaca.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/pupi---pet-store.appspot.com/o/products%2Fothers%2Farnes-chewbaca.jpg?alt=media&token=746f50fe-964e-4c82-9eb8-adb3e69a7d6d",
+        "stock":11
     },
     {
-        "Id":405,
+        "id":405,
         "categoria":4,
         "nombre":"Arnes Marvel Perro",
         "precio":5100,
-        "img":"products/others/arnes-marvel.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/pupi---pet-store.appspot.com/o/products%2Fothers%2Farnes-marvel.jpg?alt=media&token=77ba57e4-c224-4d64-ab38-dfa6e5de6735",
+        "stock":103
     },
     {
-        "Id":406,
+        "id":406,
         "categoria":4,
         "nombre":"Arnés-Bozal Entrenamiento Top Trainer",
         "precio":11000,
-        "img":"products/others/arnes-bozal-entrenamiento.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/pupi---pet-store.appspot.com/o/products%2Fothers%2Farnes-bozal-entrenamiento.jpg?alt=media&token=92b6ec97-32f4-4a8f-83a7-9b5f609ffba3",
+        "stock":25
     },
     {
-        "Id":407,
+        "id":407,
         "categoria":4,
         "nombre":"Rascador Para Gato Poste",
         "precio":5300,
-        "img":"products/others/rascador-gatos-poste.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/pupi---pet-store.appspot.com/o/products%2Fothers%2Frascador-gatos-poste.jpg?alt=media&token=8c65da84-1f53-475d-b11d-819a5f85318b",
+        "stock":6
     },
     {
-        "Id":408,
+        "id":408,
         "categoria":4,
         "nombre":"Rascador Para Gatos C/Poste Sisal",
         "precio":17000,
-        "img":"products/others/rascador-gatos-poste-sisal.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/pupi---pet-store.appspot.com/o/products%2Fothers%2Frascador-gatos-poste-sisal.jpg?alt=media&token=83944ee8-e5fe-4f37-81cb-b2eb4083cc57",
+        "stock":87
     }
 ]

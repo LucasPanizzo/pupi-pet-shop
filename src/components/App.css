@@ -13,7 +13,18 @@ html, body {
     min-height: 100%;
     min-width: 100%;
 }
-
+p{
+    margin: 0;
+    padding: 0;
+}
+h1,h2,h3,h4,h5,h6{
+    margin: 0;
+    padding: 0;
+}
+.row{
+    padding: 0;
+    margin: 0;
+}
 .cardsContainer{
     background-color:#fef6e4 ;
     display: flex;
@@ -21,9 +32,14 @@ html, body {
     justify-content: space-around;
     padding-top: 15px; 
 }
+.card-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
 .cardProducto{
     width: 300px;
-    height: 450px;
+    height: 500px;
     margin: 15px;
     display: flex;
     border: 1px solid #001858;
@@ -39,6 +55,7 @@ html, body {
     color: #001858;
     border-radius: .5rem;
     padding: 5px;
+    align-self: flex-end;
 }
 .boton-detalle:hover{
     color: #f582ae;
@@ -46,3 +63,7 @@ html, body {
     border: 1px solid #f582ae;
 }
 
+.detail-container{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}

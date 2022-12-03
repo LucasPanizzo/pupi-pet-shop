@@ -1,0 +1,130 @@
+.empty-cart{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.empty-cart h2{
+    font-size: 2.2rem;
+    margin-top: 15px;
+    margin-bottom: 40px;
+    color: #001858;
+}
+.empty-cart img{
+    height: 350px;
+}
+.empty-cart p{
+    font-size: 1.5rem;
+    margin-top: 20px;
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+.empty-cart button{
+    height: fit-content;
+    align-self: flex-end;
+    margin-bottom: 25px;
+    background-color: #f582ae;
+    border: 1.5px solid #f582ae;
+    border-radius: .5rem ;
+    padding: 3px;
+    transition: all 0.4s linear;
+    font-size: 1.5rem;
+}
+.empty-cart button:hover{
+    transform: scale(1.1);
+}
+@media screen and (max-width: 425px) {
+    .empty-cart h2{
+        font-size: 1.7rem;
+
+    }
+    .empty-cart img{
+        height: 240px;
+    }
+    .empty-cart p{
+        font-size: 1.2rem;
+    }
+    .empty-cart button{
+        font-size: 1.2rem;
+    }
+}
+
+/* CARRITO LLENO */
+.cart-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.cart-full{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: white;
+    width: fit-content;
+    border-radius: .5rem;
+    border: 1px solid #001858;
+    color: #001858;
+}
+.card-cart{
+    border: #001858 1px solid;
+}
+.cardCart-body{
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.cardCart-body button{
+    justify-self:self-end;
+    margin-top: 25px;
+    margin-left: 10px;
+    background-color: #f582ae;
+    border: 1.5px solid #f582ae;
+    border-radius: .5rem ;
+    padding: 3px;
+    transition: all 0.4s linear;
+    font-size: 1.2rem;
+    width: fit-content;
+}
+.card-title{
+    font-size: 1.7rem;
+    margin-right: 5px;
+}
+.card-text{
+    font-size: 1.5rem;
+    color: #f582ae;
+}
+.cart-full button:hover{
+    transform: scale(1.05);
+}
+.cart-full img{
+    padding: 10px;
+}
+.cart-end p{
+    font-size: 1.5rem;
+    color: #001858;
+}
+.cart-end button{
+    justify-self:self-end;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius: .5rem ;
+    padding: 3px;
+    transition: all 0.4s linear;
+    font-size: 1.2rem;
+    width: fit-content;
+}
+.cart-end button:hover{
+    transform: scale(1.05);
+}
+.cart-empty{
+    background-color: #f582ae;
+    border: 1.5px solid #f582ae;
+}
+.cart-finish{
+    color: #f582ae;
+    margin-left: 15px;
+    background-color: #001858;
+    border: 1.5px solid #001858;
+}

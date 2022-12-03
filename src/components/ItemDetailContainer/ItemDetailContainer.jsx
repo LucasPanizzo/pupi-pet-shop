@@ -1,15 +1,15 @@
 import { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
-import { cargarProd } from "../../assets/funcionproductos";
+import { getProduct } from "../../assets/firebase";
 import ItemDetail from "../ItemDetail/ItemDetail";
-const Product = () => {
+import '../App.css';
+const ItemDetailContainer = () => {
     
     const [prod, setprod] = useState([]);
-    const {Id} = useParams()
+    const {id} = useParams()
     useEffect(() => {
-        cargarProd('../json/products.json').then(productos => {
-            const prod = productos.find(el => el.Id === parseInt(Id))
-            setprod(prod)
+        getProduct(id).then(product => {
+            setprod(product)
         })
     }, []);
 
@@ -22,5 +22,5 @@ const Product = () => {
     );
 }
 
-export default Product;
+export default ItemDetailContainer;
 

@@ -61,7 +61,36 @@
     border-radius: .5rem ;
     padding: 3px;
     transition: all 0.2s linear;
+    width: 170px;
 }
 .agregar-butt:hover{
     transform: scale(1.05);
+}
+.finalizar-butt{
+    height: fit-content;
+    width: 260px;
+    align-self: flex-start;
+    margin-top: 10px;
+    background-color: #f582ae;
+    border: 1.5px solid #f582ae;
+    border-radius: .5rem ;
+    transition: all 0.2s linear;
+}
+.finalizar-butt:hover{
+    transform: scale(1.05);
+    color: #001858;
+}
+@media screen and (min-width: 1024px) {
+    .finalizar-butt{
+        width: 260px;
+    }
+}
+@media screen and (max-width: 370px) {
+    .finalizar-butt{
+        width: 100%;
+    }
+}
+.no-stock{
+    color: red;
+    font-size: 1.3rem;
 }

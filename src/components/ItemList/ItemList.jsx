@@ -1,10 +1,9 @@
 import Item from "../Item/Item";
 
 const ItemList = ({productsList}) => {
-    console.log(productsList)
     return (
         <>
-          {productsList.map(producto => <Item key={producto.Id} prod = {producto}/>)}  
+          {productsList.map(producto => <Item key={producto.id} prod = {producto}/>)}  
         </>
     );
 }
